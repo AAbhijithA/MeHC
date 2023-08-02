@@ -10,10 +10,21 @@ The application also assesses your interaction with both the bots to gauge your 
 - - - -
 ### Functionalities
 * Homepage with relevant daily health and medical articles scraped from top health/medical sites.
-* Finding nearby hospitals on allowing geolocation access to your location and displaying it on a constructed map
+* Finding nearby hospitals on allowing geolocation access to your location and displaying it on a constructed map.
 * Conversations with MedGPT (ChatGPT 3.5 turbo) which answers only Medical Queries by using a simple filter.
 * Conversations with MeHC Chatbot for mental health to assess and understand your mental conditions.
-* Viewing previous chats with MedGPT.
+* Viewing previous chats with MedGPT for perfesonal reference or other uses.
 * User Status of their mental health via a graph using sentiment analysis of their conversations with the chatbot and suggesting them how to go about their mental health.
 - - - -
 ### Project Setup
+
+You can setup all the files via the clone command using the link:
+```
+https://github.com/AAbhijithA/MeHC.git
+```
+***(Note: Ensure you have python downloaded on your system to run this, if not download from here: [Download Python](https://www.python.org/downloads/))***
+
+All the necessary libraries are listed in the **requirements.txt** file so you can download them using the command:
+```
+pip install -r requirements.txt
+```
