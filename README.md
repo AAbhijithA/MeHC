@@ -11,6 +11,7 @@ The application also assesses your interaction with both the bots to gauge your 
 | Backend | ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
 - - - -
 ### Functionalities
+* User Login/Registration/Logout functionalities.
 * Homepage with relevant daily health and medical articles scraped from top health/medical sites.
 * Finding nearby hospitals on allowing geolocation access to your location and displaying it on a constructed map.
 * Conversations with MedGPT (ChatGPT 3.5 turbo) which answers only Medical Queries by using a simple filter.
