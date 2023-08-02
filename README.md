@@ -44,20 +44,20 @@ The information related to training the chatbot can be found in the 'MODEL_Train
 Click this link to redirect yourself there: [Model Training and Saving](https://github.com/AAbhijithA/MeHC/tree/master/Model_Train)
 - - - -
 ### Built With
-* **HTML | Bootstrap-CSS | JavaScript:** For the frontend of the web-application
-* **ChartJs:** For the display of the chart regarding status of the user
-* **Python:** Backend programming language
-* **BeautifulSoup:** For scraping relevant links and info of multiple sites for up-to-date articles
-* **Folium:** For constructing the map of nearby hospitals with the help of LeafletJs
-* **Geoapify API:** Using Places-API for receiving hospitals radially nearby users location
+* **HTML | Bootstrap-CSS | JavaScript:** For the frontend of the web-application.
+* **ChartJs:** For the display of the chart regarding status of the user.
+* **Python:** Backend programming language.
+* **BeautifulSoup:** For scraping relevant links and info of multiple sites for up-to-date articles.
+* **Folium:** For constructing the map of nearby hospitals with the help of LeafletJs.
+* **Geoapify API:** Using Places-API for receiving hospitals radially nearby users location.
 * **NLTK:** For pre-processing the data we train the model with.
 * **Numpy:** For pre-processing the data before giving it to the model to train with.
 * **Tensorflow:** For training the Chatbot model and reusing them by loading them later.
-* **Pickle:** Saving/Opening the files of pre-processed data and trained model
-* **Flask:** Web-Application microframework
-* **SQLite:** Serverless database used for storing user information
-* **OpenAI API:** Using ChatGPT for only medical queries using filter
-* **TextBlob:** using NLP for sentiment ploarity of chat conversations with chatbot for later use
+* **Pickle:** Saving/Opening the files of pre-processed data and trained model.
+* **Flask:** Web-Application microframework in python.
+* **SQLite:** Serverless database used for storing user information.
+* **OpenAI API:** Using ChatGPT only for medical queries using a simple filter.
+* **TextBlob:** using NLP for sentiment ploarity of chat conversations with chatbot for later use.
 - - - -
 ### Author
 **Abhijith Ajith :** [AAbhijithA](https://github.com/AAbhijithA)
