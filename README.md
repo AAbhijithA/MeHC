@@ -1,4 +1,4 @@
-# MeHC
+# MeHC [Medical Healthcare Application]
 **MeHC** your ultimate companion for comprehensive health and wellness! It provides you with up to date health and medical articles, ensuring you stay well-informed about the world of healthcare.
 From resolving medical queries with efficiency to suggesting nearby hospitals for immediate care, MeHC is your go-to resource for all things health-related.
 The application also assesses your interaction with both the bots to gauge your mental health status as well.
