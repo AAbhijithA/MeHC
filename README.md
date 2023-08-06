@@ -40,7 +40,7 @@ python app.py
 ```
 - - - -
 ### Chatbot Model Training and Saving
-The information related to training the chatbot can be found in the 'MODEL_Train' folder.
+The information related to training the chatbot can be found in the 'Model_Train' folder.
 
 Click this link to redirect yourself there: [Model Training and Saving](https://github.com/AAbhijithA/MeHC/tree/master/Model_Train)
 - - - -
