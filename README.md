@@ -30,7 +30,7 @@ All the necessary libraries are listed in the **requirements.txt** file so you c
 ```
 pip install -r requirements.txt
 ```
-***(Note: You can so the above in a virtual environment set up in your directory, more details on setup and activation here: [Virtual Environment](https://docs.python.org/3/library/venv.html#how-venvs-work))***
+***(Note: You can do the above in a virtual environment set up in your directory, more details on setup and activation here: [Virtual Environment](https://docs.python.org/3/library/venv.html#how-venvs-work))***
 ```
 Ensure you use your environment variables or secrets to the key for your API's in the given .env file for deployment
 ```
