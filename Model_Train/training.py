@@ -39,7 +39,7 @@ words = sorted(set(words))
 classes = sorted(set(classes))
 
 '''
-Training the Model: Stachastic Gradient Descent Neural Network
+Training the Model: Sequential NN with Stochastic Gradient Descent Optimizer
 '''
 training = []
 output_empty = [0]*len(classes)
