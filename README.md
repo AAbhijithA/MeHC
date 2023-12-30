@@ -45,7 +45,7 @@ The information related to training the chatbot can be found in the 'Model_Train
 Click this link to redirect yourself there: [Model Training and Saving](https://github.com/AAbhijithA/MeHC/tree/master/Model_Train)
 - - - -
 ### Optimizations
-* The daily articles are cached in the backend and only update every new day ensuring low runtime to render the page
+* Daily articles are cached in the backend and only update every new day ensuring low runtime to render the page.
 * The API is called passing through a filter to rate-limit the API usage by google search for relevant keywords.
 * The regression analysis of polarity scores is done optimally to ensure low runtime in the backend.
 * Exception handling done to ensure server errors are handled and shown in the frontend in different use-cases.
