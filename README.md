@@ -46,8 +46,9 @@ Click this link to redirect yourself there: [Model Training and Saving](https://
 - - - -
 ### Optimizations
 * The daily articles are cached in the backend and only update every new day ensuring low runtime to render the page
-* The API is called using a filter to rate-limit the API usage by google search for relevant keywords for the query resolvers.
-* The regression analysis of polarity scores is done optimally to ensure low runtime in the backend. 
+* The API is called passing through a filter to rate-limit the API usage by google search for relevant keywords.
+* The regression analysis of polarity scores is done optimally to ensure low runtime in the backend.
+* Exception handling done to ensure server errors are handled and shown in the frontend in different use-cases.
 - - - -
 ### Built With
 * **HTML | Bootstrap-CSS | JavaScript:** For the frontend of the web-application.
